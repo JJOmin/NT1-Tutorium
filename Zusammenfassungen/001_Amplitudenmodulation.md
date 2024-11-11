@@ -1,4 +1,4 @@
-# Amplitudenmodulation (AM): Umfassende Studiennotizen
+# Amplitudenmodulation (AM): (Basierend auf am.pdf [hier](https://sync.academiccloud.de/index.php/s/e0AeU4KXkHcrpPg))
 
 ## Grundkonzept der Modulation
 
