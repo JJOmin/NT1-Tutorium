@@ -9,11 +9,15 @@ Willkommen zum Tutorium für **Nachrichtentechnik 1**! Diese Unterlagen bieten e
 ## Inhalte
 
 1. **Amplitudenmopdulation (AM)**
-   - [ ] Welche Themen sollen wir behandeln?
+   - [x] Welche Themen sollen wir behandeln?
    - [x] Kahoot zu AM
-   - [ ] Übungsaufgabe zu AM [hier](https://github.com/JJOmin/NT1-Tutorium/blob/1d86c937d5ff5fd6bc863aac22162dcb165193ff/%C3%9Cbungsaufgaben/%C3%9Cbungsufgabe_AM_12_11_2024.md)
-   - [ ] Lösungen zur Aufgabe eine Woche Später 
+   - [x] Übungsaufgabe zu AM [hier](https://github.com/JJOmin/NT1-Tutorium/blob/1d86c937d5ff5fd6bc863aac22162dcb165193ff/%C3%9Cbungsaufgaben/%C3%9Cbungsufgabe_AM_12_11_2024.md)
+   - [x] Lösungen zur Aufgabe eine Woche Später 
 2.  **Frequenzmodulation (FM)**
+   - [ ] Kahoot FM
+   - [ ] Frequenzmodulation Basics
+   - [ ] Übungsaufgaben
+   - [ ] Wiederholung Übungsaufgaben aus VL
 3. **Elementartsignale**
 
 ## Inhaltsübersicht
