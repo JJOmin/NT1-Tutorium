@@ -18,6 +18,10 @@ Willkommen zum Tutorium für **Nachrichtentechnik 1**! Diese Unterlagen bieten e
       - [x] Frequenzmodulation Basics
       - [x] Elementarsignale Wiederholung Sprung & Impuls
 3. **Elementartsignale**
+      - [ ] Kahoot FM Wiederholung
+      - [ ] Aufgabe Geschaltete Schwingung
+      - [ ] Darstellung/Zeichnen Zusammengesetzter Funktionen
+      - [ ] Wenn noch Zeit Leitungscodes
 
 ## Inhaltsübersicht
 
