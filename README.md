@@ -21,9 +21,15 @@ Willkommen zum Tutorium für **Nachrichtentechnik 1**! Diese Unterlagen bieten e
       - [x] Kahoot FM Wiederholung
       - [x] Aufgabe Geschaltete Schwingung
       - [x] Darstellung/Zeichnen Zusammengesetzter Funktionen
-      - [x] Wenn noch Zeit Leitungscodes
+4. Leitungscodes und Vorbereitung
+   - [ ] Leiungscodes Kahoot
+   - [ ] Leitungscodes Aufgaben
+   - [ ] Fragen zu Versuchen
+  
+   
 ## Links
  - Kahoot Sammlung [soon]()
+
 ## Inhaltsübersicht
 
 1. **Parameter ablesen und Signalanalyse**
