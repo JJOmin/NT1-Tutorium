@@ -29,7 +29,7 @@ Willkommen zum Tutorium für **Nachrichtentechnik 1**! Diese Unterlagen bieten e
   
    
 ## Links
- - Kahoot Sammlung [soon]()
+ - Kahoot Sammlung [hier](https://create.kahoot.it/course/ef822afc-0ed5-4e59-b3fe-67b21be0c08b)
 
 ## Inhaltsübersicht
 
