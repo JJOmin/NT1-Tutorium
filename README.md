@@ -26,8 +26,8 @@ Willkommen zum Tutorium für **Nachrichtentechnik 1**! Diese Unterlagen bieten e
    - [x] Leitungscodes Aufgaben
    - [x] Fragen zu Versuchen
 5. **Faltung**
-   - [ ] Aufgaben zur Faltung [hier](https://github.com/JJOmin/NT1-Tutorium/blob/e0360e088497e89cb6762a1425b4b07906eacfb0/%C3%9Cbungsaufgaben/Faltungs%20%C3%9Cbungsaufgabe.pdf)
-   - [ ] Fragen und weiteres
+   - [x] Aufgaben zur Faltung [hier](https://github.com/JJOmin/NT1-Tutorium/blob/e0360e088497e89cb6762a1425b4b07906eacfb0/%C3%9Cbungsaufgaben/Faltungs%20%C3%9Cbungsaufgabe.pdf)
+   - [x] Fragen und weiteres
    - Material für Faltung:
       - Faltungssatz und Faltungsoperation [hier](https://www.lntwww.de/Signaldarstellung/Faltungssatz_und_Faltungsoperation)
       - Video Erklärung [hier](https://youtu.be/xtiF0qr6itw?si=ILixcGqQuED9P6Fl)
