@@ -33,7 +33,9 @@ Willkommen zum Tutorium für **Nachrichtentechnik 1**! Diese Unterlagen bieten e
       - Video Erklärung [hier](https://youtu.be/xtiF0qr6itw?si=ILixcGqQuED9P6Fl)
       - Graphische Faltung [hier](https://www.lntwww.de/lnt_applets/convolution/index.html) Erklärung [hier](https://www.lntwww.de/Applets:Zur_Verdeutlichung_der_grafischen_Faltung)
       - Faltungsrechnung Beispiel [hier](https://github.com/JJOmin/NT1-Tutorium/blob/73b901118dbcf3154eff1b255aea622bf700197f/Hilfszettel/Faltung%C3%9Cbung_l%C3%B6sung%20(1).pdf) Faltung Folie [hier](https://github.com/JJOmin/NT1-Tutorium/blob/73b901118dbcf3154eff1b255aea622bf700197f/Hilfszettel/faltung.pdf)
-  
+    
+## Noftall "Hotline"
+  - Leo über Discord @
    
 ## Links
  - Kahoot Sammlung [hier](https://create.kahoot.it/course/ef822afc-0ed5-4e59-b3fe-67b21be0c08b)
